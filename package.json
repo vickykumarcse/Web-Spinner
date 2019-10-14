@@ -1,0 +1,14 @@
+{
+  "name": "web-spinner",
+  "version": "1.1.1",
+  "description": "Spinner as a web component.",
+  "main": "src/web-spinner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spinner","loader", "progress", "progress spinner", "progress loader"
+  ],
+  "author": "Vicky Kumar",
+  "license": "MIT"
+}
