@@ -1,6 +1,7 @@
 # Web Spinner
 
 This project is based on Web Components, for Spinner or Loader. It is very simple to use as well as customizable.
+[Live Demo](https://webmultilangsupport.vickykumarcse.now.sh?loading=true)
 
 
 ## Installation
